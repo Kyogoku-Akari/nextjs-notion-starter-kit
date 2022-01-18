@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'https://www.notion.so/c42d5f4f012e493795a4a83ce971ca62',
+  rootNotionPageId: 'https://topaz-tithonia-2bb.notion.site/c42d5f4f012e493795a4a83ce971ca62',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
